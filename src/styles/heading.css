@@ -1,0 +1,16 @@
+heading {
+  color: #eb0e0e;
+  font-family: Bebas;
+  margin-top: 0px;
+  margin-bottom: 1px;
+}
+
+.h1 {
+  color: #eb0e0e;
+  background-color: black;
+  font-family: Bebas, sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 1px;
+}
