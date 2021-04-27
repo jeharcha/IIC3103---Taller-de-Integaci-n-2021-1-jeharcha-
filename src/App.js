@@ -1,19 +1,17 @@
 import NavBar from './components/navbar.jsx';
 import './App.css';
-import { Container } from 'react-bootstrap';
-import Counters from "./components/counters.jsx";
+import Counters from './components/counters.jsx';
 import React, { Component } from 'react';
-
 
 function App() {
   return (
     <React.Fragment>
+      {/* El header de la página es el navbar */}
       <NavBar />
       <main className="container">
-        <Counters/>
+        <Counters />
       </main>
     </React.Fragment>
-    
   );
 }
 
